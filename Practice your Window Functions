@@ -7,3 +7,8 @@ The windows functions can do many power things. You can directly do the calculat
 ## Here are the useful websites that can practice your Windows Function Skills
 https://www.windowfunctions.com/
 https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html
+
+
+Here are some psecial command in SQL: 
+Rank()
+Dense_Rank()
